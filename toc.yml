@@ -1,0 +1,32 @@
+# add the top header 
+- header: My Jupyter Book
+
+# add the 'about.md' section at the top 
+- url: /intro
+  not_numbered: true
+
+# add a divider: a divider is just a black line separating sections. It is just aesthetics.
+- divider: true
+
+# add a second header
+- header: Contents
+
+# add the first notebook
+- url: /features/01-notebook
+  not_numbered: true
+
+# add the second notebook
+- url: /features/02-notebook
+  not_numbered: true
+ 
+# add the third notebook
+- url: /features/03-notebook
+  not_numbered: true
+  
+# another divider
+- divider: true
+
+# add the LICENSE 
+- url: /LICENSE
+  not_numbered: true
+
